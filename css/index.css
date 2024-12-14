@@ -68,7 +68,7 @@ nav {
     color: #00a6e7;
 }
 
-.pencarian {
+.btn-hub {
     position: relative;
     display: flex;
     align-items: center;
@@ -82,6 +82,7 @@ nav {
     font-family: sans-serif;
     border: none;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .ham-btn {
@@ -204,6 +205,7 @@ nav {
     background: url("../asset/brd.png");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: top;
     height: 110vh;
     width: 100%;
     padding: 0 5%;
@@ -354,7 +356,7 @@ nav {
     position: relative;
     font-family: "Poppins", sans-serif;
     font-size: 1em;
-    font-weight: 100;
+    font-weight: 200;
     color: white;
     text-align: center;
     margin-bottom: 10px;
@@ -531,13 +533,6 @@ footer {
         display: none;
     }
 
-    #beranda {
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-attachment: fixed;
-    }
-
     .brd-container-1 {
         width: 100%;
     }
@@ -570,7 +565,7 @@ footer {
         width: 100%;
     }
 
-    .pencarian {
+    .btn-hub {
         display: none;
     }
 
@@ -677,10 +672,6 @@ footer {
         display: none;
     }
 
-    #beranda {
-        background-position: center;
-    }
-
     .brd-container-1 {
         width: 60%;
     }
@@ -717,7 +708,7 @@ footer {
         height: auto;
     }
 
-    .pencarian {
+    .btn-hub {
         display: none;
     }
 
@@ -822,10 +813,6 @@ footer {
         display: none;
     }
 
-    #beranda {
-        background-position: center;
-    }
-
     .brd-container-1 {
         width: 100%;
     }
@@ -862,7 +849,7 @@ footer {
         height: auto;
     }
 
-    .pencarian {
+    .btn-hub {
         display: none;
     }
 
@@ -967,10 +954,6 @@ footer {
         display: flex;
     }
 
-    #beranda {
-        background-position: center;
-    }
-
     .brd-container-1 {
         width: 60%;
     }
@@ -1007,7 +990,7 @@ footer {
         height: auto;
     }
 
-    .pencarian {
+    .btn-hub {
         display: flex;
     }
 
@@ -1112,10 +1095,6 @@ footer {
         display: flex;
     }
 
-    #beranda {
-        background-position: top;
-    }
-
     .brd-container-1 {
         width: 30%;
     }
@@ -1152,7 +1131,7 @@ footer {
         height: auto;
     }
 
-    .pencarian {
+    .btn-hub {
         display: flex;
     }
 
@@ -1253,10 +1232,6 @@ footer {
         display: flex;
     }
 
-    #beranda {
-        background-position: top;
-    }
-
     .brd-container-1 {
         width: 30%;
     }
@@ -1289,7 +1264,7 @@ footer {
         height: auto;
     }
 
-    .pencarian {
+    .btn-hub {
         display: flex;
     }
 
