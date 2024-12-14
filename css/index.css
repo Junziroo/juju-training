@@ -205,7 +205,8 @@ nav {
     background: url("../asset/brd.png");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: center;
+    background-attachment: fixed;
     height: 110vh;
     width: 100%;
     padding: 0 5%;
